@@ -20,6 +20,10 @@ To get started developing right away:
 ├── public
 │   ├── favicon.ico # React Icon, You may change if you wish.
 │   └── index.html # DO NOT MODIFY
+├── components
+│   ├── Book.js # Book component, You may change if you wish.
+    ├── Search.js # Search Icon, You may change if you wish.
+│   └── Shelf.js # Shelf component, You may change if you wish.
 └── src
     ├── App.css # Styles for your app. Feel free to customize this as you desire.
     ├── App.js # This is the root of your app. Contains static HTML right now.
